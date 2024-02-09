@@ -1,0 +1,104 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  color: #7581a1;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: 600;
+  color: #192b59;
+}
+
+.nav {
+  font-size: 12;
+  color: #6e7ea9;
+  text-transform: uppercase;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn-primary {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  background-color: #1085e4;
+  border: 1px solid #1085e4;
+  padding: 20px 40px;
+  border-radius: 30px;
+}
+
+.btn-info {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  color: #8085b1;
+  text-transform: uppercase;
+  background: transparent;
+  border: 1px solid #dce1e5;
+  padding: 20px 40px;
+  border-radius: 30px;
+}
+
+.btn-primary:hover {
+  color: #1085e4;
+  background-color: #fff;
+}
+
+.btn-secondary {
+  color: #7e8bae;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2.5px;
+  text-transform: uppercase;
+  background-color: #cbdbe8;
+  border: 1px solid #cbdbe8;
+  padding: 20px 40px;
+  border-radius: 30px;
+}
+
+.btn-secondary:hover {
+  background-color: #fff;
+}
+
+.btn-group a + a {
+  margin-left: 15px;
+}
+.btn-free {
+  font-weight: 400;
+  padding: 21px 56px;
+  letter-spacing: 1.7px;
+}
+
+.grid h2 {
+  font-size: 40px;
+  color: #192b59;
+  font-weight: 700;
+}
+
+.grid h2 span {
+  font-size: 14px;
+  color: #1085e4;
+  display: block;
+}
+
+.grid-item h3 {
+  font-size: 30px;
+  font-weight: 600;
+  color: #192b59;
+}
+
+.grid-item a {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1085e4;
+}
